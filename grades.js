@@ -1,4 +1,5 @@
 let score;
+//change score to see grade
 score = 90;
 
 if(score<45){
